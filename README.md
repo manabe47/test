@@ -1,2 +1,6 @@
 # test
-eclipse_test
+*eclipse_test*
+
+- git push test  
+	- from eclipse
+	- うまくいかない。
